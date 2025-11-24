@@ -1,6 +1,7 @@
 Project Title: RentPay –  Car Rental Web Application
 
 This project is a full-stack Car Rental Management System designed to digitalize and simplify the entire vehicle booking process. It provides a smooth, user-friendly experience for customers to browse, compare, and rent cars, while also offering a powerful admin panel for managing cars, users, and rental transactions.
+
 The system includes secure authentication, real-time booking, image uploads, and a polished modern UI built with React and Tailwind. The backend uses Node.js, Express, and MongoDB, ensuring strong performance, scalability, and clean API architecture.
 
 
