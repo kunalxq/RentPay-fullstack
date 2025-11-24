@@ -6,6 +6,7 @@ The system includes secure authentication, real-time booking, image uploads, and
 
 
 
+
 Key Features:
 • Admin Analytics Dashboard – View total cars, rentals, and key business insights.
 
@@ -26,6 +27,8 @@ Key Features:
 • MongoDB Schema Design – Well-structured models for users, cars, and rental records.
 
 • Performance Optimized Frontend – Built using Vite for fast loading and smooth interactions.
+
+
 
 
 Technologies & Frameworks Used:
