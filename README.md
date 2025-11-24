@@ -5,7 +5,8 @@ This project is a full-stack Car Rental Management System designed to digitalize
 The system includes secure authentication, real-time booking, image uploads, and a polished modern UI built with React and Tailwind. The backend uses Node.js, Express, and MongoDB, ensuring strong performance, scalability, and clean API architecture.
 
 
-![screenshot.png]
+
+<img width="1679" height="964" alt="Screenshot" src="https://github.com/user-attachments/assets/974fc6aa-7540-46c4-97f9-b9f2c4b2ac38" />
 
 
 Key Features:
